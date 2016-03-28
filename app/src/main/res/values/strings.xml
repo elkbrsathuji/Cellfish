@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cellfish</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_num_of_unlock">number of screen unlocks (today)</string>
+    <string name="title_avg">Average per day:</string>
+    <string name="title_summary">daily summary</string>
+    <string name="title_summary_content">yesterday, you open the screen [NUM] times!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_share">share</string>
+    <string name="title_screen_duration">Today, used your phone for</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cellfish</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_num_of_unlock">מספר פתיחות המסך (היום):</string>
+    <string name="title_avg">ממוצע ליום:</string>
+    <string name="title_summary">סיכום יומי</string>
+    <string name="title_summary_content">אתמול פתחת את המסך [NUM] פעמים!</string>
+    <string name="title_screen_duration">השתמשת במכשיר שלך היום במשך:</string>
+
+    <string name="action_share">share</string>
+</resources>
